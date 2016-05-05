@@ -1,0 +1,31 @@
+
+#one {
+	Margin:0 auto; 
+	text-align: center;
+	width: 980px;
+	height: 700px;
+	Background-Color: red;
+	padding: 5px;
+}
+
+#two {
+	Margin:0 auto; 
+	text-align: center;
+	width: 750px;
+	height: 560px;
+	Background-Color: green;
+}
+
+body{
+     background-image : url('Books.jpg');
+}
+
+h1{
+	color:white;
+}
+
+h2{
+	font-size: 15px
+}
+
+
